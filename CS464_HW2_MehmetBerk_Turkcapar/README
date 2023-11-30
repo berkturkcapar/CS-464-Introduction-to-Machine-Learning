@@ -1,0 +1,5 @@
+- The code submitted is a Jupyter Notebook (.ipynb)
+
+- To run the code make sure that the dataset is in the same directory with the code and the folder name of the dataset is 'afhq_cat'.
+
+- Make sure you download PIL, numpy, matplotlib.pyplot, and glob libraries before running the code. You can use pip or conda. 
